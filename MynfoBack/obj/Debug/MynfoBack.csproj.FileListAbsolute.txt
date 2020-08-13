@@ -197,3 +197,4 @@ C:\Users\ccuesta\Source\Repos\cynthiakarina9\MynfoBack\MynfoBack\obj\Debug\Mynfo
 C:\Users\ccuesta\Source\Repos\cynthiakarina9\MynfoBack\MynfoBack\obj\Debug\MynfoBack.csproj.CopyComplete
 C:\Users\ccuesta\Source\Repos\cynthiakarina9\MynfoBack\MynfoBack\obj\Debug\MynfoBack.dll
 C:\Users\ccuesta\Source\Repos\cynthiakarina9\MynfoBack\MynfoBack\obj\Debug\MynfoBack.pdb
+C:\Users\ccuesta\Source\Repos\cynthiakarina9\MynfoBack\MynfoBack\obj\Debug\MynfoBack.csprojAssemblyReference.cache
