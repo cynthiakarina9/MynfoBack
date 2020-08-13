@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2020-08-12T22:33:32.5285857Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-08-12T22:46:36.995048Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "cfd66058-dfc3-4f19-b8f6-791db286802a"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "MobileAPPMyInfoNFC"
+    }
+  }
+}

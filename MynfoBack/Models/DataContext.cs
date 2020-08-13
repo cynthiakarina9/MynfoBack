@@ -15,5 +15,7 @@ namespace MynfoBack.Models
         }
 
         public DbSet<Ejemplo> Ejemploes { get; set; }
+
+        public System.Data.Entity.DbSet<MynfoBack.Models.DeviceUser> DeviceUsers { get; set; }
     }
 }
